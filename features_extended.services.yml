@@ -1,0 +1,4 @@
+services:
+  features.manager:
+    class: Drupal\features_extended\FeaturesManager
+    arguments: ['@app.root', '@entity.manager', '@config.factory', '@config.storage', '@config.manager', '@module_handler', '@features.config_update', '@event_dispatcher']

@@ -1,0 +1,10 @@
+{
+  "name": "amcgowanca/features_extended",
+  "description": "A set of utilities for assisting in the creation of decoupled feature-ized modules.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "required-dev": { },
+  "require": { }
+}

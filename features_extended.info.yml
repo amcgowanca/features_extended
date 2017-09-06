@@ -1,0 +1,8 @@
+name: 'Features extended'
+description: 'A collection of extended functionality for working with Features.'
+package: 'Features'
+type: module
+core: 8.x
+version: 1.0
+dependencies:
+  - features
